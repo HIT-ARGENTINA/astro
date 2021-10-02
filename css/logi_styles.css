@@ -41,6 +41,9 @@ BASICS
   text-align: center;
   margin: 0 auto;
 }
+.background_A20_section {
+  background-image: url(../images/BannerA20-04.png);
+}
 .logi_clearfix {
   position: relative;
   max-width: 1280px;
@@ -165,6 +168,7 @@ BASICS
   margin: 0 30px 30px 0;
   position: relative;
 }
+
 .logi_loop .logi_loop_img img {
   display: block;
 }
